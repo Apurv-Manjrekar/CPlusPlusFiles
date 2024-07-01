@@ -1,10 +1,3 @@
-/*
-Apurv Manjrekar
-CSE 3150-011
-PA 7
-03/19/2024
-*/
-
 // Test ECLargeInteger. To build: g++ ECLargeInteger.cpp ECLargeIntegerTest.cpp -std=c++11
 #include "ECLargeInteger.h"
 #include <iostream>
