@@ -1,10 +1,3 @@
-/*
-Apurv Manjrekar
-CSE 3150-011
-PA 7
-03/19/2024
-*/
-
 #ifndef EC_LARGE_INTEGER
 #define EC_LARGE_INTEGER
 
